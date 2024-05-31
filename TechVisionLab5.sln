@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechVisionLab5", "TechVisionLab5\TechVisionLab5.csproj", "{ADC41839-501A-45AE-8B49-0904BA5AFCC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC41839-501A-45AE-8B49-0904BA5AFCC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC41839-501A-45AE-8B49-0904BA5AFCC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC41839-501A-45AE-8B49-0904BA5AFCC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC41839-501A-45AE-8B49-0904BA5AFCC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3116C2DB-A817-49C4-A207-41A0BD712B4C}
+	EndGlobalSection
+EndGlobal
